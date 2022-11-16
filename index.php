@@ -19,10 +19,10 @@
     <div class="navbar">
         <a href="#" style="padding: 0px!important;"><img src="img/logo.png" width="145px" style="position: relative;top:13px;width:200px" alt=""></a>
         <a href="index.php?p=home" class="homes">Home</a>
-        <a href="#">Tentang Kami</a>
+        <a href="index.php?p=tentang">Tentang Kami</a>
         <a href="index.php?p=gallery">Galery</a>
-        <a href="#">Testimonial</a>
-        <a href="#">Booking</a>
+        <a href="index.php?p=testimoni">Testimonial</a>
+        <a href="index.php?p=booking">Booking</a>
         <a href="#" onclick="shows()" class="icon"><i class="fas fa-bars"></i></a>
 
     </div>

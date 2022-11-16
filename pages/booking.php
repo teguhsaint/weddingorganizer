@@ -1,0 +1,2 @@
+<h1>lokasi</h1>
+<p><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d63290.84362948899!2d112.15619622825291!3d-7.500786016694626!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e783faae48704db%3A0x4027a76e3530fa0!2sMegaluh%2C%20Jombang%20Regency%2C%20East%20Java!5e0!3m2!1sen!2sid!4v1668614883162!5m2!1sen!2sid" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></p>
