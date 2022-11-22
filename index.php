@@ -55,7 +55,8 @@
         function shows() {
             $('.navbar').toggleClass('show');
         }
-
+        
+        
 
         $(document).ready(function() {
             $('.your-class').slick({

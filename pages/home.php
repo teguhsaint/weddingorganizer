@@ -23,9 +23,7 @@
   
 
 }
-.p{
-  font-family: "Lucida Console", "Courier New", monospace;
-}
+
 </style>
 
 
@@ -35,9 +33,9 @@
 Jadikan momen pernikahan kamu berkesan dimata tamu undangan bersama jasa make up panggilan Jombang, Zipul Wedding and Organizer. Solusi all in one tanpa khawatir kantong jebol.
 Ingin pesta pernikahanmu dikenang selamanya oleh tamu undangan? <br> Percayakan kepada Zipul. <br> Harga terbaik spesial Juni 2021, promo diskon 25%.</p>
 </div>
-<div class="center">
-    <h1 style=" font-size: 40px; margin: 0px; color: white;">Tentang Kami</h1>
-    <p style=" font-size: 40px; margin: 0px; color: white;font-family: "Lucida Console, Courier New, monospace;"> Zipul menawarkan beberapa wedding servis untuk kebutuhan resepsi pernikahan, meliputi:
+<div >
+    <h1 style=" font-size: 40px; margin: 0px; text-align:center; ">Tentang Kami</h1>
+    <p style=" text-align:center; font-size: 20px; margin: 10px;  "> Zipul menawarkan beberapa wedding servis untuk kebutuhan resepsi pernikahan, <br> meliputi:
     </p>
  
 
