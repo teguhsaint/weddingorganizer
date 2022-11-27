@@ -35,6 +35,39 @@
     justify-content: center;
 }
 
+
+.txt-gambar{
+  
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  text-align: center;
+
+}
+
+
+
+.group {
+    zoom: 1;
+}
+.row {
+    clear: both;
+    padding: 0;
+    margin: 0;
+}
+div {
+    display: block;}
+
+.col:first-child {
+    margin-left: 0;
+}
+.kolom12 {
+    width: 49.2%;
+}
+.col {
+    display: block;
+    float: left;
+    margin: 1% 0 1% 1.6%;}
 </style>
 
 
@@ -72,4 +105,25 @@ Ingin pesta pernikahanmu dikenang selamanya oleh tamu undangan? <br> Percayakan 
     <h1 style="text-align: center; margin:0;">Jasa Pengantin Eropa</h1>
 
 </div>
+</div>
+<div >
+</div>
+<br><br><br><br><br><br><br><br>
+<div class="txt-gambar">
+    <img  src="wedding/paket-nikah-surabaya transparan.jpg" alt="">
+    <h2 style="font-size: 45px;">Harga Paket Pernikahan Modern Jombang</h2>
+    <p style="font-size: 26px">Harga paket pernikahan di jombang tahun 2021-2022</p>
+</div>
+
+<div class="row group">
+    <div class="col colom12">
+        <div class="table-harga-1">
+            
+
+
+        </div>
+
+
+    </div>
+
 </div>
